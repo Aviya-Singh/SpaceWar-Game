@@ -4,4 +4,8 @@ This repository contains a simple space war game written in Python 3.11.3. It le
 
 Game Controls: 
 
-Left arrow key - Move left; Right arrow key - Move right; Upper arrow key - Speed accelerate; Lower arrow key - Speed deccelerate; Space - shoot missile
+Left arrow key - Move left
+Right arrow key - Move right
+Upper arrow key - Speed accelerate
+Lower arrow key - Speed deccelerate
+Space - shoot missile
